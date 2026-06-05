@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Presency",
+    "slug": "presency-native",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "presency",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#080808",
+    "splash": {
+      "backgroundColor": "#080808"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.axiscreative.presency"
+    },
+    "android": {
+      "package": "com.axiscreative.presency",
+      "adaptiveIcon": {
+        "backgroundColor": "#080808"
+      }
+    },
+    "plugins": ["expo-router", "expo-font"]
+  }
+}
